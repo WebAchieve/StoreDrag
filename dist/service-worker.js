@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DragStore/precache-manifest.2b8fb8e5444810f4b0f1247982734e44.js"
+  "/StoreDrag/precache-manifest.b0b6c325575f32bebb88d6ae82bc91b7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dragstoreapp"});
