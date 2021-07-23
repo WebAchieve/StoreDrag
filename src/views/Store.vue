@@ -623,6 +623,10 @@ export default {
   .card-frame{
     font-size: 40px;
   }
+  .card p{
+    font-size: 20px;
+    line-height: 25px;
+  }
   
 }
 @media (max-width: 980px) {
@@ -642,7 +646,7 @@ export default {
     width: 400px;
     height: 550px;
     p {
-      line-height: 30px;
+      line-height: 25px;
     }
   }
   .queue p {
